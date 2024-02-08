@@ -34,3 +34,15 @@
 
 ![image](https://github.com/tvgVita69/project-manager/assets/98489171/7b0f841e-4774-43cb-830d-318bef9cc4c0)
 
+##### Управление финансами проекта.
+
+![image](https://github.com/tvgVita69/project-manager/assets/98489171/2d48cdcb-8a8c-4a85-a6ef-59e00a0c4557)
+
+![image](https://github.com/tvgVita69/project-manager/assets/98489171/e6fdebb4-76ae-4369-9189-e4c2b5d88044)
+
+
+
+
+
+
+
