@@ -34,6 +34,7 @@
 
 ![image](https://github.com/tvgVita69/project-manager/assets/98489171/7b0f841e-4774-43cb-830d-318bef9cc4c0)
 
+
 ##### Управление финансами проекта.
 
 ![image](https://github.com/tvgVita69/project-manager/assets/98489171/2d48cdcb-8a8c-4a85-a6ef-59e00a0c4557)
@@ -46,6 +47,12 @@
 ![image](https://github.com/tvgVita69/project-manager/assets/98489171/cab03dcd-f2bc-451f-adf6-74abd1644bc5)
 
 ![image](https://github.com/tvgVita69/project-manager/assets/98489171/1ca895a4-1d0f-4d5a-b86a-fb853562ebb9)
+
+
+##### Управление качеством. Контроллинг.
+
+![image](https://github.com/tvgVita69/project-manager/assets/98489171/91c82439-d124-41c8-a53c-1f749457fff4)
+
 
 
 
