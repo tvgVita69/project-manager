@@ -28,8 +28,9 @@
 ![image](https://github.com/tvgVita69/project-manager/assets/98489171/8a1ee914-267f-448f-93be-d9edbc69846e)
 
 
+##### Команда проекта и взаимодействие в ней.
 
+![image](https://github.com/tvgVita69/project-manager/assets/98489171/539e691c-9c74-41e5-8788-d855271f3fcc)
 
-
-
+![image](https://github.com/tvgVita69/project-manager/assets/98489171/7b0f841e-4774-43cb-830d-318bef9cc4c0)
 
