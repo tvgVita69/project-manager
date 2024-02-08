@@ -41,8 +41,11 @@
 ![image](https://github.com/tvgVita69/project-manager/assets/98489171/e6fdebb4-76ae-4369-9189-e4c2b5d88044)
 
 
+##### Управление рисками и изменениями в проекте.
 
+![image](https://github.com/tvgVita69/project-manager/assets/98489171/cab03dcd-f2bc-451f-adf6-74abd1644bc5)
 
+![image](https://github.com/tvgVita69/project-manager/assets/98489171/1ca895a4-1d0f-4d5a-b86a-fb853562ebb9)
 
 
 
