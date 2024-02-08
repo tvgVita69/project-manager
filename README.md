@@ -16,9 +16,9 @@
 
 ##### Жизненный цикл проекта. Внутренняя и внешняя среда проекта.
 
-![image](https://github.com/tvgVita69/project-manager/assets/98489171/7a053b52-3ca6-44c2-91ec-00253e7e08f7)
+![image](https://github.com/tvgVita69/project-manager/assets/98489171/fef58ff7-1d5d-400b-973b-3b831b7e32e3)
 
-![image](https://github.com/tvgVita69/project-manager/assets/98489171/b68d88d8-54c8-44e9-891b-a14ce03e2e86)
+![image](https://github.com/tvgVita69/project-manager/assets/98489171/ecf41906-986e-44bb-90ee-7dd5ba70d412)
 
 
 ##### Временные рамки проекта и ресурсы.
